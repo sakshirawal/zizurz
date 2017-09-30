@@ -1,0 +1,57 @@
+[
+   {
+       "name":"FOS LIGHTING",
+	   "price":3000,
+       "img":"img/1.jpg"
+   
+   
+   
+   
+   },
+   {
+     "name":"JAINSONS EMPORIO",
+	   "price":2000,
+       "img":"img/2.jpg"
+   
+   
+   
+   
+   },
+   {
+     "name":"THE LIGHT STORE",
+	   "price":4000,
+       "img":"img/3.jpg"
+   
+   
+   
+   
+   },
+  
+   {
+     "name":"SYLVN STUDIO",
+	   "price":5000,
+       "img":"img/4.jpg"
+   
+   
+   
+   
+   },
+   {
+     "name":"WOODEN TABLE LAMP",
+	   "price":4000,
+       "img":"img/5.jpg"
+   
+   
+   
+   
+   },
+   {
+     "name":"DOUBLE LIGHT LAMP",
+	   "price":7000,
+       "img":"img/6.jpg"
+   
+   
+   
+   
+   }
+]
