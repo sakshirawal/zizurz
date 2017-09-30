@@ -1,0 +1,43 @@
+	.mid
+		{
+		width:1000px;
+		left:200px;
+		position:absolute;
+		margin-top: 10px;
+		}
+
+    .aligncenter {
+    clear: both;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding:0;
+    width:212px;
+    height:250px;
+}
+
+
+
+	div.list1{
+		border:2px solid #000;
+		}
+	div.list1:hover
+		 border: 2px solid #777;
+		}
+	
+	div.des {
+   		 display:inline;
+   		 text-align: center;
+		}
+	
+	
+	.products {
+    		padding: 3px 20px;
+    		float: left;
+		margin:35px;
+		}
+	#des_1,#des_2,#des_3,#des_4,#des_5,#des_6 {
+		text-align:center;
+	}
+
+		
